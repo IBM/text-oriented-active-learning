@@ -1,0 +1,21 @@
+jupyter
+keras
+numpy
+pandas
+scikit-learn
+scipy
+tensorflow
+#seqeval
+matplotlib
+sklearn-crfsuite
+
+# probably not needed
+#gensim
+
+# REST APIs
+flask
+flask-cors
+tornado
+
+# -e git+ssh://git@myproject.org/MyProject/#egg=MyProject
+# -e git+https://www.github.com/keras-team/#egg=keras-contrib
